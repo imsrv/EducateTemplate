@@ -1,0 +1,2 @@
+# EducateTemplate
+Educational Website Template
